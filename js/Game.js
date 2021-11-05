@@ -58,7 +58,7 @@ class Game {
               //x and y position of the cars
               var x =200;
               var y;
-        
+        //there it is
               for(var plr in allPlayers){
                 //add 1 to the index for every loop
                 index = index + 1 ;
